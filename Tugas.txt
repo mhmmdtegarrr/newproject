@@ -1,0 +1,7 @@
+
+============================
+***** TUGAS 24/12/2025 *****
+============================
+
+1. Buat program pascal dengan array 2 dimensi
+2. Program pascal dikirim ke github

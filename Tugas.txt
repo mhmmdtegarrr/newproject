@@ -5,3 +5,6 @@
 
 1. Buat program pascal dengan array 2 dimensi
 2. Program pascal dikirim ke github
+***** Penambahan Tugas *****
+3. Buat direktori (folder) dengan nama PASCAL
+4. Tugas program ditaro di direktori (folder) PASCAL

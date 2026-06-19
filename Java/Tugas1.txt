@@ -3,5 +3,5 @@ TUGAS 1
 *******
 
 1. Buat project dengan nama javaProject
-2. Buat Package dengan nama looping
-3. Buat class perulangan 1-100 menggunakan for.
+2. Buat Package dengan nama "looping"
+3. Buat class dengan nama "Perulangan" 1-100 menggunakan for.
